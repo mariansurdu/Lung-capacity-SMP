@@ -1,0 +1,14 @@
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.Properties.Resources.resources
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.csproj.GenerateResource.Cache
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.Adder.resources
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.Login.resources
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\bin\Debug\Proiect.sdf
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\bin\Debug\ProiectSMP.exe.config
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\bin\Debug\ProiectSMP.exe
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\bin\Debug\ProiectSMP.pdb
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\bin\Debug\MySql.Data.DLL
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.exe
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.pdb
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.Create.resources
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.Main.resources
+C:\Users\Maryan\Desktop\ProiectSMP\ProiectSMP\ProiectSMP\obj\x86\Debug\ProiectSMP.csprojResolveAssemblyReference.cache
