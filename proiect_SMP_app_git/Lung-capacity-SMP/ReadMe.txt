@@ -5,3 +5,5 @@ Have next functionalities:
 -create
 -save data
 -see data from a specified date
+Every user should change connection url to make connection to local database stored in project
+folder DB
